@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "",
-    "db": "mongodb://localhost:27017/blistit-backend"
+    "db": "mongodb://localhost:27017/mymarketplace-backend"
 }
